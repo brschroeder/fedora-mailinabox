@@ -12,7 +12,7 @@ The goals of this project are exactly the same as the original project
 * **Not** make a totally unhackable, NSA-proof server.
 * **Not** make something customizable by power users.
 
-#The Server
+# The Server
 
 Fedora-Mail-in-a-Box will turn a fresh Fedora Server 64-bit machine into a working mail server by installing and configuring various components.
 
